@@ -1,5 +1,10 @@
 Esta es la preparacion de la clase de it
-Esta clase es para 25 estudiantes
+Esta clase es para 5
+Nancy Ortega
+Maria Rodriguez
+Milena Roa
+Pablo Ruiz
+Carlos Suarez
 y para la especializacion
 desarrollo de aplicaciones moviles.
 
